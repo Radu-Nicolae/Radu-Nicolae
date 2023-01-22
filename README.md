@@ -17,7 +17,7 @@ I am a passionate software developer currently working as a Front-end & Healthca
  
 **Learning:** 🚀 Node.js, 🦀 Express.js
 
-**Other Skills:**  Strong understanding of algorithms, data structures and software design patterns.
+**Other Skills:**  Strong understanding of algorithms, data structures and software design patterns
 
 ## 🏆 Achievements
 - Former Member of Autovortex - Romania's National Robotics Team 
