@@ -1,9 +1,11 @@
 # 🚀 Radu Nicolae
 _in a nutshell_
 
-I am Radu Nicolae, 3rd year Honours Bachelor's Student at Vrije Universiteit Amsterdam. I am conducting scientific research with @Large Research, focusing on enhancing the scalability, reliability, and performance of computer systems. My research involves datacenter simulation, cloud computing, and developing ICT digital twins. Currently founding the _Code for Humanity_ initiative, as part of the Network Institute. I also coordinate computer systems and programming courses at the VU for 350 Bachelor's students. All of these while having a top 8% academic performance (and growing).
+I am Radu Nicolae, 3rd year Honours Bachelor's Student at Vrije Universiteit Amsterdam. I am conducting scientific research with @Large Research, focusing on enhancing the scalability, reliability, and performance of computer systems. My research involves datacenter simulation, cloud computing, and developing ICT digital twins. Currently founding the _Code for Humanity_ initiative as part of the Network Institute. I also coordinate computer systems and programming courses at the VU for 350 Bachelor's students. All of these while having a top 8% academic performance (and growing).
 
 🔮 Fun fact: In my (too limited) free time, I give talks, engage prospective students, and share insights into the CS world as a Student Ambassador, at VU Amsterdam.
+
+🏍️ I also love wheelies and knee-down corners on my moto 😇.
 
 ## 🔍 Current Roles
 
