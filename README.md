@@ -1,24 +1,50 @@
-# 🚀 Radu Nicolae - Passionate Software Developer
+# 🚀 Radu Nicolae
+_in a nutshell_
 
-I am a passionate software developer currently working as a Front-end & Healthcare Data Scientist at Oxaigen and studying Computer Science at Vrije Universiteit Amsterdam. I am always looking for new projects and collaborations to work on and improve my skills.
+I am Radu Nicolae, 3rd year Honours Bachelor's Student at Vrije Universiteit Amsterdam. I am conducting scientific research with @Large Research, focusing on enhancing the scalability, reliability, and performance of computer systems. My research involves datacenter simulation, cloud computing, and developing ICT digital twins. Currently founding the _Code for Humanity_ initiative, as part of the Network Institute. All of these while having a top 8% academic performance (and growing).
 
-🔮 Fun fact: In my free time I am a student ambassador for VU Amsterdam, representing the university at important events and sharing my knowledge about the Computer Science domain.
+🔮 Fun fact: In my (too limited) free time, I give talks, engage prospective students, and share insights into the CS world as a Student Ambassador, at VU Amsterdam.
 
-**Contact Information:**
-- 🌐 Personal Website: [https://radu-nicolae.com](https://radu-nicolae.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/radunicolae-dev/](https://www.linkedin.com/in/radunicolae-dev/)
-- 📧 Email: mail@radu-nicolae.com
+## 🔍 Current Roles
+
+- **Scientific Researcher**, @Large Research, VU Amsterdam
+- **Course Coordinator**, Computer Organization, Computer Programming, VU Amsterdam
+- **Technology Developer**, Network Institute, VU Amsterdam
+- **GenAI and Data science**, Databricks
+
+
+## 🎓 Academic Background
+
+- **Honours Bachelor's Computer Science**, VU Amsterdam (Expected 2025, Cum laude)
+- **Deep Learning Specialization**, Stanford University x Databricks (Summer 2023)
+
+## 🔍 (Some) Past Roles
+
+- **Healthcare Data science and Front-End internship**, Oxaigen
+- **Full-Stack trainer internship**, Jademy, Oracle Silver Partner
+- **Front-End Developer**, 6 official websites
+- **Robotics Team Member**, Autovortex (Romania's National Robotics Team)
+- **Robotics Team Leader**, Gamma
+- &more
+
 
 ## 💻 Skills
 
-**Languages:** 🔥 JavaScript, 💻 C++, 🛠 PHP 
+**Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript
+**Technologies:** React, GraphQL, D3.js, Strawberry, PostgreSQL
+**Systems:** Assembly x86, Linux, Docker
+**Frameworks/Libraries:** Numpy, Pandas, Tensorflow, Matplotlib, Keras
 
-**Frameworks/Libraries/Others:** 🚀 React, 📈 D3.js, 📊 GraphQL, 🛰️ Apollo Client
- 
-**Learning:** 🚀 Node.js, 🦀 Express.js
-
-**Other Skills:**  Strong understanding of algorithms, data structures and software design patterns
 
 ## 🏆 Achievements
-- Former Member of Autovortex - Romania's National Robotics Team 
-- 1 place at International Contest Robotics First Tech Challenge Dec 2019, Feb 2020, Apr 2021
+
+- **Top 8%** GPA, Computer Science, VU Amsterdam
+- **First Place**, Robotics, National Stage FIRST Tech Challenge, 2021
+- **First Place**, Robotics, National Stage FIRST Tech Challenge, 2020
+- **First Place**, Robotics, National Stage FIRST Tech Challenge, 2019
+  
+
+**Contact Information:**
+- 🔗 LinkedIn: [https://www.linkedin.com/in/rnicolae/](https://www.linkedin.com/in/rnicolae/)
+- 🌐 Personal Website: [https://radu-nicolae.com](https://radu-nicolae.com)
+- 📧 Email: mail@radu-nicolae.com
