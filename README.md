@@ -1,52 +1,71 @@
 # 🚀 Radu Nicolae
-_in a nutshell_
 
-I am Radu Nicolae, 3rd year Honours Bachelor's Student at Vrije Universiteit Amsterdam. I am conducting scientific research with @Large Research, focusing on enhancing the scalability, reliability, and performance of computer systems. My research involves datacenter simulation, cloud computing, and developing ICT digital twins. Currently founding the _Code for Humanity_ initiative as part of the Network Institute. I also coordinate computer systems and programming courses at the VU for 350 Bachelor's students. All of these while having a top 8% academic performance (and growing).
+https://radu-nicolae.com  
+📧 mail@radu-nicolae.com  
+🐙 Github: Radu-Nicolae  
+🔗 LinkedIn: @rnicolae  
+📍 Amsterdam, Netherlands
 
-🔮 Fun fact: In my (too limited) free time, I give talks, engage prospective students, and share insights into the CS world as a Student Ambassador, at VU Amsterdam.
+---
 
-🏍️ I also love wheelies and knee-down corners on my moto 😇.
+## 🧑‍💻 Career Experience
 
-## 🔍 Current Roles
+- **Scientific Researcher in Computer Systems**  
+  @Large Research, VU Amsterdam (2023–)  
+  Research on scalable, reliable, and performant computer systems, focusing on datacenter simulation, cloud computing, and ICT digital twins. Introduced multi- and meta-model simulation in the field.
 
-- **Scientific Researcher**, @Large Research, VU Amsterdam
-- **Course Coordinator**, Computer Organization, Computer Programming, VU Amsterdam
-- **Technology Developer**, Network Institute, VU Amsterdam
-- **GenAI and Data science**, Databricks
+- **Technology Developer**  
+  Network Institute (2024–)  
+  Founding "Code for Humanity" and building research tools.
 
+- **Team Lead & Course Coordinator**  
+  Vrije Universiteit Amsterdam (2023–)  
+  Coordinating teams of 20–30 TAs, co-teaching 350+ students, creating and assessing course materials for Computer Organization, Computer Programming, and Computer Networks.
+
+- **Committee Member**  
+  BSc Computer Science Curriculum Committee (2025), BSc Honours Evaluation Committee (2025), NVAO 6-accreditation (2024, 2025)
+
+- **Student Ambassador**  
+  VU Amsterdam (2022–)  
+  Presenting Computer Science to prospective students.
+
+---
 
 ## 🎓 Academic Background
 
-- **Honours Bachelor's Computer Science**, VU Amsterdam (Expected 2025, Cum laude)
-- **Deep Learning Specialization**, Stanford University x Databricks (Summer 2023)
+- **BSc Computer Science, Honours (Cum laude, top 10%)**  
+  Vrije Universiteit Amsterdam (2022–2025, expected)
 
-## 🔍 (Some) Past Roles
+- **High School: Mathematics & Informatics**  
+  Sfântul Sava National College (top 10%, grade 9.48)
 
-- **Healthcare Data science and Front-End internship**, Oxaigen
-- **Full-Stack trainer internship**, Jademy, Oracle Silver Partner
-- **Front-End Developer**, 6 official websites
-- **Robotics Team Member**, Autovortex (Romania's National Robotics Team)
-- **Robotics Team Leader**, Gamma
-- &more
+---
 
+## 📚 Courses & Certifications
+
+- GenAI Bootcamp, Databricks (2024–)
+- Deep Learning Specialization, Stanford x Coursera (93%)
+- Harvard CS50 Web Programming
+- Java Bootcamp, Jademy (Oracle Silver Partner)
+- Pre-University Calculus, TU Delft (91%)
+
+---
+
+## 🏆 Awards
+
+- 🏅 Student Talent Award 2024, Faculty of Science, VU Amsterdam
+- 🤖 1st place FIRST Tech Challenge (2019, 2020, 2021)
+
+---
 
 ## 💻 Skills
 
-**Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript
-**Technologies:** React, GraphQL, D3.js, Strawberry, PostgreSQL
-**Systems:** Assembly x86, Linux, Docker
-**Frameworks/Libraries:** Numpy, Pandas, Tensorflow, Matplotlib, Keras
+**Programming:** C, C++, Java, Kotlin, Scala, Python, JavaScript, TypeScript  
+**Libraries:** Numpy, Pandas, Tensorflow, Matplotlib, Keras, Strawberry, React  
+**Systems:** Assembly x86, Linux, Docker  
+**Other:** Databases, Git, LaTeX, CI/CD
+
+---
 
 
-## 🏆 Achievements
-
-- **Top 8%** GPA, Computer Science, VU Amsterdam
-- **First Place**, Robotics, National Stage FIRST Tech Challenge, 2021
-- **First Place**, Robotics, National Stage FIRST Tech Challenge, 2020
-- **First Place**, Robotics, National Stage FIRST Tech Challenge, 2019
-  
-
-**Contact Information:**
-- 🔗 LinkedIn: [https://www.linkedin.com/in/rnicolae/](https://www.linkedin.com/in/rnicolae/)
-- 🌐 Personal Website: [https://radu-nicolae.com](https://radu-nicolae.com)
-- 📧 Email: mail@radu-nicolae.com
+_Leadership • Logical reasoning • Attention to detail • Self-management • Keeping deadlines_
