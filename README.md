@@ -1,71 +1,20 @@
-# 🚀 Radu Nicolae
+# 🚀 Hi, I'm Radu Nicolae
+**Scientific Researcher & Computer Science Student in Amsterdam, Netherlands**
 
-https://radu-nicolae.com  
-📧 mail@radu-nicolae.com  
-🐙 Github: Radu-Nicolae  
-🔗 LinkedIn: @rnicolae  
-📍 Amsterdam, Netherlands
+I focus on making distributed computer systems scalable, reliable, and performant through datacenter simulation and digital twins.
 
----
+## 🔭 Current Focus
+* Researching massivizing computer systems with the Massivizing Computer Systems group, VU Amsterdam.
+* Developing OpenDT, the first Open-Source Digital Twin for datacenter operation and monitoring (under review, ICPE HotCloudPerf'26).
+* Simulating the performance and sustainability of LLM Ecosystems under inference (under review, Computing Frontiers '26).
+* Leading teaching teams and co-teaching in Computer Organization and Computer Networks at VU Amsterdam.
 
-## 🧑‍💻 Career Experience
+## 🎓 Academic Highlights
+* Pursuing an MSc in Computer Science (VU-UvA joint degree) focusing on large-scale distributed systems.
+* Graduating BSc Computer Science (Cum laude, Honours) with a 9.1 GPA.
+* Recipient of the Student Talent Award 2024 at the Faculty of Science, VU Amsterdam.
 
-- **Scientific Researcher in Computer Systems**  
-  @Large Research, VU Amsterdam (2023–)  
-  Research on scalable, reliable, and performant computer systems, focusing on datacenter simulation, cloud computing, and ICT digital twins. Introduced multi- and meta-model simulation in the field.
-
-- **Technology Developer**  
-  Network Institute (2024–)  
-  Founding "Code for Humanity" and building research tools.
-
-- **Team Lead & Course Coordinator**  
-  Vrije Universiteit Amsterdam (2023–)  
-  Coordinating teams of 20–30 TAs, co-teaching 350+ students, creating and assessing course materials for Computer Organization, Computer Programming, and Computer Networks.
-
-- **Committee Member**  
-  BSc Computer Science Curriculum Committee (2025), BSc Honours Evaluation Committee (2025), NVAO 6-accreditation (2024, 2025)
-
-- **Student Ambassador**  
-  VU Amsterdam (2022–)  
-  Presenting Computer Science to prospective students.
-
----
-
-## 🎓 Academic Background
-
-- **BSc Computer Science, Honours (Cum laude, top 10%)**  
-  Vrije Universiteit Amsterdam (2022–2025, expected)
-
-- **High School: Mathematics & Informatics**  
-  Sfântul Sava National College (top 10%, grade 9.48)
-
----
-
-## 📚 Courses & Certifications
-
-- GenAI Bootcamp, Databricks (2024–)
-- Deep Learning Specialization, Stanford x Coursera (93%)
-- Harvard CS50 Web Programming
-- Java Bootcamp, Jademy (Oracle Silver Partner)
-- Pre-University Calculus, TU Delft (91%)
-
----
-
-## 🏆 Awards
-
-- 🏅 Student Talent Award 2024, Faculty of Science, VU Amsterdam
-- 🤖 1st place FIRST Tech Challenge (2019, 2020, 2021)
-
----
-
-## 💻 Skills
-
-**Programming:** C, C++, Java, Kotlin, Scala, Python, JavaScript, TypeScript  
-**Libraries:** Numpy, Pandas, Tensorflow, Matplotlib, Keras, Strawberry, React  
-**Systems:** Assembly x86, Linux, Docker  
-**Other:** Databases, Git, LaTeX, CI/CD
-
----
-
-
-_Leadership • Logical reasoning • Attention to detail • Self-management • Keeping deadlines_
+## 📫 Connect with Me
+* **Website:** [radu-nicolae.com](https://radu-nicolae.com)
+* **LinkedIn:** [@rnicolae](https://www.linkedin.com/in/rnicolae)
+* **Email:** firstName dot lastName 2302 at gmail dotttt com.
