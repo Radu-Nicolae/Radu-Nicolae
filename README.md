@@ -4,7 +4,7 @@
 I focus on making distributed computer systems scalable, reliable, and performant through datacenter simulation and digital twins.
 
 ## 🔭 Current Focus
-* Researching massivizing computer systems with the Massivizing Computer Systems group, VU Amsterdam.
+* Researching computer systems with the Massivizing Computer Systems group, VU Amsterdam.
 * Developing OpenDT, the first Open-Source Digital Twin for datacenter operation and monitoring (under review, ICPE HotCloudPerf'26).
 * Simulating the performance and sustainability of LLM Ecosystems under inference (under review, Computing Frontiers '26).
 * Leading teaching teams and co-teaching in Computer Organization and Computer Networks at VU Amsterdam.
