@@ -1,5 +1,4 @@
 # 🚀 Hi, I'm Radu Nicolae
-**Scientific Researcher & Computer Science Student in Amsterdam, Netherlands**
 
 I focus on making distributed computer systems scalable, reliable, and performant through datacenter simulation and digital twins.
 
