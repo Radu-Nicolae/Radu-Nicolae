@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Radu Nicolae
+# 🚀 Hi, I'm Radu
 
 [![Website](https://img.shields.io/badge/Website-radu--nicolae.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://radu-nicolae.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@rnicolae-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rnicolae)
